@@ -1,14 +1,11 @@
-# Visual Studio 2015 user specific files
-.vs/
+Binaries
+Build
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+DerivedDataCache
+Intermediate
+Plugins/FMODStudio
+Saved
 
-# Precompiled Headers
-*.gch
-*.pch
+.DS_Store
 
 .vs
